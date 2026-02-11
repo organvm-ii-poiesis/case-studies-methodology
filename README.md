@@ -416,7 +416,7 @@ Case studies are formatted for submission to relevant venues:
 | [showcase-portfolio](https://github.com/organvm-ii-poiesis/showcase-portfolio) | II | References case studies for grant application methodology sections |
 | [archive-past-works](https://github.com/organvm-ii-poiesis/archive-past-works) | II | Provides archival metadata that contextualizes case study subjects |
 | [public-process](https://github.com/organvm-v-logos/public-process) | V | Building-in-public essays draw on case study reflections |
-| [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine) | I | Theoretical frameworks referenced in methodology sections |
+| [recursive-engine](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) | I | Theoretical frameworks referenced in methodology sections |
 
 ### External References
 
