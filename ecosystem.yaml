@@ -1,0 +1,8 @@
+schema_version: '1.0'
+repo: case-studies-methodology
+organ: II
+display_name: "Structured case studies documenting creative methodology \u2014 process\
+  \ documentation, comparative analysis, and grant-ready excerpts"
+delivery:
+- platform: web_app
+  status: not_started
